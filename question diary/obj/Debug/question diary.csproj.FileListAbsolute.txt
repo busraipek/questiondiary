@@ -1,0 +1,17 @@
+C:\Users\90505\source\repos\question diary\bin\Debug\question diary.exe.config
+C:\Users\90505\source\repos\question diary\bin\Debug\question diary.exe
+C:\Users\90505\source\repos\question diary\bin\Debug\question diary.pdb
+C:\Users\90505\source\repos\question diary\obj\Debug\question diary.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.giris.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.Properties.Resources.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question diary.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\question diary\obj\Debug\question diary.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\question diary\obj\Debug\question diary.exe
+C:\Users\90505\source\repos\question diary\obj\Debug\question diary.pdb
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.arayüz.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.kayıt.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.soru.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.profil.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.şifredeğiştir.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.isimdeğiş.resources
+C:\Users\90505\source\repos\question diary\obj\Debug\question_diary.cevap.resources
